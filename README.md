@@ -34,7 +34,7 @@ Here is a list of recommended binaries for each processor line.
     - AMD Piledriver (2012)
     - AMD Steamroller (2014)
 
- - `2013-Haswell` (AVX and FMA3)
+ - `2013-Haswell` (AVX2 and FMA3)
     - Intel Haswell (2013)
     - Intel Broadwell (2014)
     - Intel Skylake (2015)
